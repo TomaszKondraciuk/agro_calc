@@ -1,0 +1,77 @@
+{
+  "common": {
+    "currency": "Currency",
+    "amount": "Amount",
+    "total": "Total",
+    "area": "Area",
+    "count": "Count",
+    "rate": "Rate",
+    "limit": "Limit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "export": "Export",
+    "reset": "Reset",
+    "calculate": "Calculate"
+  },
+  "nav": {
+    "directPayments": "Direct Payments",
+    "cropPayments": "Crops",
+    "animalPayments": "Animals",
+    "ecoschemes": "Eco-schemes",
+    "summary": "Summary"
+  },
+  "app": {
+    "title": "Agricultural Subsidies Calculator",
+    "subtitle": "Official ARiMR rates • Campaign 2025",
+    "description": "Professional agricultural subsidies calculator for 2025"
+  },
+  "directPayments": {
+    "title": "Direct Payments",
+    "description": "Basic income support and complementary payments",
+    "basicIncomeSupport": "Basic income support",
+    "redistributivePayment": "Redistributive payment",
+    "youngFarmersPayment": "Young farmers payment",
+    "smallFarmsPayment": "Small farms payment",
+    "supplementaryBasicPayment": "Supplementary basic payment",
+    "totalArea": "Total agricultural area",
+    "totalAreaTooltip": "Sum of all agricultural land in the farm",
+    "youngFarmer": "Young farmer (up to 40 years)",
+    "youngFarmerDescription": "Additional support for farmers up to 40 years old",
+    "smallFarm": "Small farm (up to 5 ha)",
+    "smallFarmDescription": "Special payment for small farms"
+  },
+  "cropPayments": {
+    "title": "Special Crop Subsidies",
+    "description": "Support for high-margin and specialized crops",
+    "leguminousCrops": "Leguminous crops for seeds",
+    "fodderCrops": "Fodder crops",
+    "starchPotatoes": "Starch potatoes",
+    "sugarBeets": "Sugar beets",
+    "tomatoes": "Tomatoes",
+    "hops": "Hops",
+    "strawberries": "Strawberries",
+    "flax": "Flax",
+    "fiberHemp": "Fiber hemp"
+  },
+  "animalPayments": {
+    "title": "Animal Subsidies",
+    "description": "Support for livestock farming and breeding",
+    "cattle": "Cattle (up to 24 months)",
+    "cows": "Cows",
+    "sheep": "Sheep",
+    "goats": "Goats"
+  },
+  "ecoschemes": {
+    "title": "Eco-schemes",
+    "description": "Support for environmentally and climate-friendly practices"
+  },
+  "summary": {
+    "title": "Subsidies Summary",
+    "description": "Complete overview of all calculated subsidies",
+    "grandTotal": "Estimated total subsidies for 2025",
+    "exportCsv": "Export CSV",
+    "noData": "No data to summarize",
+    "noDataDescription": "Fill in data in previous tabs to see calculated subsidies"
+  }
+}

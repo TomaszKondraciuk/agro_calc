@@ -1,0 +1,77 @@
+{
+  "common": {
+    "currency": "Waluta",
+    "amount": "Kwota",
+    "total": "Suma",
+    "area": "Powierzchnia",
+    "count": "Liczba",
+    "rate": "Stawka",
+    "limit": "Limit",
+    "loading": "Ładowanie...",
+    "error": "Błąd",
+    "success": "Sukces",
+    "export": "Eksportuj",
+    "reset": "Resetuj",
+    "calculate": "Oblicz"
+  },
+  "nav": {
+    "directPayments": "Dopłaty Bezpośrednie",
+    "cropPayments": "Uprawy",
+    "animalPayments": "Zwierzęta",
+    "ecoschemes": "Ekoschematy",
+    "summary": "Podsumowanie"
+  },
+  "app": {
+    "title": "Kalkulator Dopłat Rolnych",
+    "subtitle": "Oficjalne stawki ARiMR • Kampania 2025",
+    "description": "Profesjonalny kalkulator dopłat rolnych na 2025 rok"
+  },
+  "directPayments": {
+    "title": "Dopłaty Bezpośrednie",
+    "description": "Podstawowe wsparcie dochodów i płatności uzupełniające",
+    "basicIncomeSupport": "Podstawowe wsparcie dochodów",
+    "redistributivePayment": "Płatność redystrybucyjna",
+    "youngFarmersPayment": "Płatność dla młodego rolnika",
+    "smallFarmsPayment": "Płatność dla małego gospodarstwa",
+    "supplementaryBasicPayment": "Uzupełniająca płatność podstawowa",
+    "totalArea": "Całkowita powierzchnia użytków rolnych",
+    "totalAreaTooltip": "Suma wszystkich użytków rolnych w gospodarstwie",
+    "youngFarmer": "Młody rolnik (do 40 lat)",
+    "youngFarmerDescription": "Dodatkowe wsparcie dla rolników do 40 roku życia",
+    "smallFarm": "Małe gospodarstwo (do 5 ha)",
+    "smallFarmDescription": "Specjalna płatność dla małych gospodarstw"
+  },
+  "cropPayments": {
+    "title": "Dopłaty do Upraw Specjalnych",
+    "description": "Wsparcie dla upraw wysokomarżowych i specjalistycznych",
+    "leguminousCrops": "Rośliny strączkowe na nasiona",
+    "fodderCrops": "Rośliny pastewne",
+    "starchPotatoes": "Ziemniaki skrobiowe",
+    "sugarBeets": "Buraki cukrowe",
+    "tomatoes": "Pomidory",
+    "hops": "Chmiel",
+    "strawberries": "Truskawki",
+    "flax": "Len",
+    "fiberHemp": "Konopie włókniste"
+  },
+  "animalPayments": {
+    "title": "Dopłaty do Zwierząt",
+    "description": "Wsparcie dla chowu i hodowli zwierząt gospodarskich",
+    "cattle": "Bydło (do 24 miesięcy)",
+    "cows": "Krowy",
+    "sheep": "Owce",
+    "goats": "Kozy"
+  },
+  "ecoschemes": {
+    "title": "Ekoschematy",
+    "description": "Wsparcie dla praktyk przyjaznych środowisku i klimatowi"
+  },
+  "summary": {
+    "title": "Podsumowanie Dopłat",
+    "description": "Kompletne zestawienie wszystkich obliczonych dopłat",
+    "grandTotal": "Szacowana suma wszystkich dopłat na 2025 rok",
+    "exportCsv": "Eksportuj CSV",
+    "noData": "Brak danych do podsumowania",
+    "noDataDescription": "Wypełnij dane w poprzednich zakładkach, aby zobaczyć obliczone dopłaty"
+  }
+}
